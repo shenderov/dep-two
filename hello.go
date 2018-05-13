@@ -1,4 +1,4 @@
-package dep-two // import "github.com/shenderov/dep-two"
+package deptwo // import "github.com/shenderov/dep-two"
 
 import (
 	"fmt"
